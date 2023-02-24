@@ -1,3 +1,7 @@
 Sou um arquivo de texto que fara parte de um repositorio. 
 
-eu sou a primeira modificação
+eu sou a primeira modificação.
+
+eu estou na ramificação 'teste'. 
+
+apos o mrge
